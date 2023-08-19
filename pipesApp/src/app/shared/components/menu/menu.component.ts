@@ -22,7 +22,7 @@ export class MenuComponent {
       {
         label: 'Pipes Personalizados', icon: 'pi pi-cog',
         items: [
-          { label: 'Mayúsculas', icon: 'pi pi-sort-alpha-up', routerLink: 'ordenar' },
+          { label: 'Custom Pipes', icon: 'pi pi-cog', routerLink: 'custom' },
         ]
       }
     ];
